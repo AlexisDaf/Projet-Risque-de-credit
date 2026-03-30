@@ -1,6 +1,6 @@
-## Projet-Risque-de-credit
+## PROJET D'ANALYSE DU RISQUE DE DÉFAUT DE CRÉDIT
 
-ANALYSE DU RISQUE DE DÉFAUT DE CRÉDIT
+
 
 
 # Motivations : 
