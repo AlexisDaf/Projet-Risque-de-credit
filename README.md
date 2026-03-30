@@ -3,7 +3,7 @@
 
 
 
-# Motivations : 
+### Motivations : 
 Au cours de ma formation en mathématiques et en machine learning, j’ai principalement été confronté à des problématiques méthodologiques et techniques. Afin de compléter cette approche, je souhaite désormais explorer davantage les applications du machine learning dans des contextes business concrets. L’analyse du risque de défaut de crédit représente un domaine particulièrement pertinent pour cette exploration, car il s’agit d’un problème bien identifié dans le secteur financier et largement étudié dans la littérature en data science.
 
 
